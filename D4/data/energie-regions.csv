@@ -1,0 +1,71 @@
+region;filiere;production_gwh
+Auvergne-Rhône-Alpes;nucléaire;110000
+Auvergne-Rhône-Alpes;hydraulique;25000
+Auvergne-Rhône-Alpes;éolien;1200
+Auvergne-Rhône-Alpes;solaire;2000
+Auvergne-Rhône-Alpes;thermique;2500
+Auvergne-Rhône-Alpes;bioénergies;1500
+Bourgogne-Franche-Comté;hydraulique;600
+Bourgogne-Franche-Comté;éolien;1700
+Bourgogne-Franche-Comté;solaire;700
+Bourgogne-Franche-Comté;thermique;300
+Bourgogne-Franche-Comté;bioénergies;600
+Bretagne;hydraulique;500
+Bretagne;éolien;2800
+Bretagne;solaire;500
+Bretagne;thermique;1200
+Bretagne;bioénergies;700
+Centre-Val de Loire;nucléaire;70000
+Centre-Val de Loire;hydraulique;150
+Centre-Val de Loire;éolien;3200
+Centre-Val de Loire;solaire;900
+Centre-Val de Loire;thermique;300
+Centre-Val de Loire;bioénergies;400
+Corse;hydraulique;600
+Corse;éolien;40
+Corse;solaire;300
+Corse;thermique;1200
+Corse;bioénergies;50
+Grand Est;nucléaire;60000
+Grand Est;hydraulique;8000
+Grand Est;éolien;9500
+Grand Est;solaire;1500
+Grand Est;thermique;3500
+Grand Est;bioénergies;1500
+Hauts-de-France;nucléaire;32000
+Hauts-de-France;hydraulique;10
+Hauts-de-France;éolien;12500
+Hauts-de-France;solaire;500
+Hauts-de-France;thermique;4000
+Hauts-de-France;bioénergies;1300
+Île-de-France;éolien;150
+Île-de-France;solaire;300
+Île-de-France;thermique;2500
+Île-de-France;bioénergies;2500
+Normandie;nucléaire;50000
+Normandie;hydraulique;100
+Normandie;éolien;2000
+Normandie;solaire;300
+Normandie;thermique;2000
+Normandie;bioénergies;500
+Nouvelle-Aquitaine;nucléaire;45000
+Nouvelle-Aquitaine;hydraulique;7000
+Nouvelle-Aquitaine;éolien;3000
+Nouvelle-Aquitaine;solaire;5000
+Nouvelle-Aquitaine;thermique;900
+Nouvelle-Aquitaine;bioénergies;1500
+Occitanie;nucléaire;17000
+Occitanie;hydraulique;12000
+Occitanie;éolien;4000
+Occitanie;solaire;4500
+Occitanie;thermique;500
+Occitanie;bioénergies;800
+Pays de la Loire;éolien;3000
+Pays de la Loire;solaire;1000
+Pays de la Loire;thermique;3500
+Pays de la Loire;bioénergies;600
+Provence-Alpes-Côte d'Azur;hydraulique;10000
+Provence-Alpes-Côte d'Azur;éolien;200
+Provence-Alpes-Côte d'Azur;solaire;2500
+Provence-Alpes-Côte d'Azur;thermique;3500
+Provence-Alpes-Côte d'Azur;bioénergies;700
